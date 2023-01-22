@@ -1,0 +1,36 @@
+H:\Documents\Visual Studio 2012\Projects\StackCalculator\StackCalculator\obj\Debug\StackCalculator.csprojResolveAssemblyReference.cache
+H:\Documents\Visual Studio 2012\Projects\StackCalculator\StackCalculator\obj\Debug\StackCalculator.Form1.resources
+H:\Documents\Visual Studio 2012\Projects\StackCalculator\StackCalculator\obj\Debug\StackCalculator.csproj.GenerateResource.Cache
+H:\Documents\Visual Studio 2012\Projects\StackCalculator\StackCalculator\bin\Debug\StackCalculator.exe
+H:\Documents\Visual Studio 2012\Projects\StackCalculator\StackCalculator\bin\Debug\StackCalculator.pdb
+H:\Documents\Visual Studio 2012\Projects\StackCalculator\StackCalculator\obj\Debug\StackCalculator.exe
+H:\Documents\Visual Studio 2012\Projects\StackCalculator\StackCalculator\obj\Debug\StackCalculator.pdb
+C:\Users\99900733\Downloads\StackCalculator\StackCalculator\StackCalculator\obj\Debug\StackCalculator.exe
+C:\Users\99900733\Downloads\StackCalculator\StackCalculator\StackCalculator\obj\Debug\StackCalculator.pdb
+C:\Users\99900733\Downloads\StackCalculator\StackCalculator\StackCalculator\obj\Debug\StackCalculator.csprojResolveAssemblyReference.cache
+C:\Users\99900733\Downloads\StackCalculator\StackCalculator\StackCalculator\obj\Debug\StackCalculator.Form1.resources
+C:\Users\99900733\Downloads\StackCalculator\StackCalculator\StackCalculator\obj\Debug\StackCalculator.csproj.GenerateResource.Cache
+C:\Users\Dom\Desktop\StackCalculator\StackCalculator\StackCalculator\obj\Debug\StackCalculator.csprojAssemblyReference.cache
+C:\Users\Dom\Desktop\StackCalculator\StackCalculator\StackCalculator\obj\Debug\StackCalculator.Form1.resources
+C:\Users\Dom\Desktop\StackCalculator\StackCalculator\StackCalculator\obj\Debug\StackCalculator.csproj.GenerateResource.cache
+C:\Users\Dom\Desktop\StackCalculator\StackCalculator\StackCalculator\obj\Debug\StackCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Dom\Desktop\StackCalculator\StackCalculator\StackCalculator\obj\Debug\StackCalculator.exe
+C:\Users\Dom\Desktop\StackCalculator\StackCalculator\StackCalculator\bin\Debug\StackCalculator.exe
+C:\Users\Dom\Desktop\StackCalculator\StackCalculator\StackCalculator\bin\Debug\StackCalculator.pdb
+C:\Users\Dom\Desktop\StackCalculator\StackCalculator\StackCalculator\obj\Debug\StackCalculator.pdb
+C:\Users\Dom\Desktop\AADS Portfolio\Lab3_StackCalculator\StackCalculator\bin\Debug\StackCalculator.exe
+C:\Users\Dom\Desktop\AADS Portfolio\Lab3_StackCalculator\StackCalculator\bin\Debug\StackCalculator.pdb
+C:\Users\Dom\Desktop\AADS Portfolio\Lab3_StackCalculator\StackCalculator\obj\Debug\StackCalculator.csprojAssemblyReference.cache
+C:\Users\Dom\Desktop\AADS Portfolio\Lab3_StackCalculator\StackCalculator\obj\Debug\StackCalculator.Form1.resources
+C:\Users\Dom\Desktop\AADS Portfolio\Lab3_StackCalculator\StackCalculator\obj\Debug\StackCalculator.csproj.GenerateResource.cache
+C:\Users\Dom\Desktop\AADS Portfolio\Lab3_StackCalculator\StackCalculator\obj\Debug\StackCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Dom\Desktop\AADS Portfolio\Lab3_StackCalculator\StackCalculator\obj\Debug\StackCalculator.exe
+C:\Users\Dom\Desktop\AADS Portfolio\Lab3_StackCalculator\StackCalculator\obj\Debug\StackCalculator.pdb
+F:\Year 2\AADS Portfolio\Lab3_StackCalculator\StackCalculator\bin\Debug\StackCalculator.exe
+F:\Year 2\AADS Portfolio\Lab3_StackCalculator\StackCalculator\bin\Debug\StackCalculator.pdb
+F:\Year 2\AADS Portfolio\Lab3_StackCalculator\StackCalculator\obj\Debug\StackCalculator.csprojAssemblyReference.cache
+F:\Year 2\AADS Portfolio\Lab3_StackCalculator\StackCalculator\obj\Debug\StackCalculator.Form1.resources
+F:\Year 2\AADS Portfolio\Lab3_StackCalculator\StackCalculator\obj\Debug\StackCalculator.csproj.GenerateResource.cache
+F:\Year 2\AADS Portfolio\Lab3_StackCalculator\StackCalculator\obj\Debug\StackCalculator.csproj.CoreCompileInputs.cache
+F:\Year 2\AADS Portfolio\Lab3_StackCalculator\StackCalculator\obj\Debug\StackCalculator.exe
+F:\Year 2\AADS Portfolio\Lab3_StackCalculator\StackCalculator\obj\Debug\StackCalculator.pdb

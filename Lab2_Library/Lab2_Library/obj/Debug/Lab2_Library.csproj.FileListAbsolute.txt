@@ -1,0 +1,21 @@
+C:\Users\17081079\source\repos\Lab2_Library\Lab2_Library\obj\Debug\Lab2_Library.csprojAssemblyReference.cache
+C:\Users\17081079\source\repos\Lab2_Library\Lab2_Library\obj\Debug\Lab2_Library.csproj.CoreCompileInputs.cache
+C:\Users\17081079\source\repos\Lab2_Library\Lab2_Library\bin\Debug\Lab2_Library.exe.config
+C:\Users\17081079\source\repos\Lab2_Library\Lab2_Library\bin\Debug\Lab2_Library.exe
+C:\Users\17081079\source\repos\Lab2_Library\Lab2_Library\bin\Debug\Lab2_Library.pdb
+C:\Users\17081079\source\repos\Lab2_Library\Lab2_Library\obj\Debug\Lab2_Library.exe
+C:\Users\17081079\source\repos\Lab2_Library\Lab2_Library\obj\Debug\Lab2_Library.pdb
+C:\Users\Dom\Desktop\AADS Portfolio\Lab2_Library\Lab2_Library\bin\Debug\Lab2_Library.exe.config
+C:\Users\Dom\Desktop\AADS Portfolio\Lab2_Library\Lab2_Library\bin\Debug\Lab2_Library.exe
+C:\Users\Dom\Desktop\AADS Portfolio\Lab2_Library\Lab2_Library\bin\Debug\Lab2_Library.pdb
+C:\Users\Dom\Desktop\AADS Portfolio\Lab2_Library\Lab2_Library\obj\Debug\Lab2_Library.csprojAssemblyReference.cache
+C:\Users\Dom\Desktop\AADS Portfolio\Lab2_Library\Lab2_Library\obj\Debug\Lab2_Library.csproj.CoreCompileInputs.cache
+C:\Users\Dom\Desktop\AADS Portfolio\Lab2_Library\Lab2_Library\obj\Debug\Lab2_Library.exe
+C:\Users\Dom\Desktop\AADS Portfolio\Lab2_Library\Lab2_Library\obj\Debug\Lab2_Library.pdb
+F:\Year 2\AADS Portfolio\Lab2_Library\Lab2_Library\bin\Debug\Lab2_Library.exe.config
+F:\Year 2\AADS Portfolio\Lab2_Library\Lab2_Library\bin\Debug\Lab2_Library.exe
+F:\Year 2\AADS Portfolio\Lab2_Library\Lab2_Library\bin\Debug\Lab2_Library.pdb
+F:\Year 2\AADS Portfolio\Lab2_Library\Lab2_Library\obj\Debug\Lab2_Library.csprojAssemblyReference.cache
+F:\Year 2\AADS Portfolio\Lab2_Library\Lab2_Library\obj\Debug\Lab2_Library.csproj.CoreCompileInputs.cache
+F:\Year 2\AADS Portfolio\Lab2_Library\Lab2_Library\obj\Debug\Lab2_Library.exe
+F:\Year 2\AADS Portfolio\Lab2_Library\Lab2_Library\obj\Debug\Lab2_Library.pdb

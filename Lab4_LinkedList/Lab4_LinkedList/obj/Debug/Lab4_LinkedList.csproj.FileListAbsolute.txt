@@ -1,0 +1,21 @@
+C:\Users\17081079\source\repos\Lab4_LinkedList\Lab4_LinkedList\bin\Debug\Lab4_LinkedList.exe.config
+C:\Users\17081079\source\repos\Lab4_LinkedList\Lab4_LinkedList\bin\Debug\Lab4_LinkedList.exe
+C:\Users\17081079\source\repos\Lab4_LinkedList\Lab4_LinkedList\bin\Debug\Lab4_LinkedList.pdb
+C:\Users\17081079\source\repos\Lab4_LinkedList\Lab4_LinkedList\obj\Debug\Lab4_LinkedList.csprojAssemblyReference.cache
+C:\Users\17081079\source\repos\Lab4_LinkedList\Lab4_LinkedList\obj\Debug\Lab4_LinkedList.csproj.CoreCompileInputs.cache
+C:\Users\17081079\source\repos\Lab4_LinkedList\Lab4_LinkedList\obj\Debug\Lab4_LinkedList.exe
+C:\Users\17081079\source\repos\Lab4_LinkedList\Lab4_LinkedList\obj\Debug\Lab4_LinkedList.pdb
+F:\Year 2\AADS Portfolio\Lab4_LinkedList\Lab4_LinkedList\bin\Debug\Lab4_LinkedList.exe.config
+F:\Year 2\AADS Portfolio\Lab4_LinkedList\Lab4_LinkedList\bin\Debug\Lab4_LinkedList.exe
+F:\Year 2\AADS Portfolio\Lab4_LinkedList\Lab4_LinkedList\bin\Debug\Lab4_LinkedList.pdb
+F:\Year 2\AADS Portfolio\Lab4_LinkedList\Lab4_LinkedList\obj\Debug\Lab4_LinkedList.csprojAssemblyReference.cache
+F:\Year 2\AADS Portfolio\Lab4_LinkedList\Lab4_LinkedList\obj\Debug\Lab4_LinkedList.csproj.CoreCompileInputs.cache
+F:\Year 2\AADS Portfolio\Lab4_LinkedList\Lab4_LinkedList\obj\Debug\Lab4_LinkedList.exe
+F:\Year 2\AADS Portfolio\Lab4_LinkedList\Lab4_LinkedList\obj\Debug\Lab4_LinkedList.pdb
+C:\Users\Dom\Desktop\AADS Portfolio\Lab4_LinkedList\Lab4_LinkedList\bin\Debug\Lab4_LinkedList.exe.config
+C:\Users\Dom\Desktop\AADS Portfolio\Lab4_LinkedList\Lab4_LinkedList\bin\Debug\Lab4_LinkedList.exe
+C:\Users\Dom\Desktop\AADS Portfolio\Lab4_LinkedList\Lab4_LinkedList\bin\Debug\Lab4_LinkedList.pdb
+C:\Users\Dom\Desktop\AADS Portfolio\Lab4_LinkedList\Lab4_LinkedList\obj\Debug\Lab4_LinkedList.csprojAssemblyReference.cache
+C:\Users\Dom\Desktop\AADS Portfolio\Lab4_LinkedList\Lab4_LinkedList\obj\Debug\Lab4_LinkedList.csproj.CoreCompileInputs.cache
+C:\Users\Dom\Desktop\AADS Portfolio\Lab4_LinkedList\Lab4_LinkedList\obj\Debug\Lab4_LinkedList.exe
+C:\Users\Dom\Desktop\AADS Portfolio\Lab4_LinkedList\Lab4_LinkedList\obj\Debug\Lab4_LinkedList.pdb
