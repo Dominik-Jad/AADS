@@ -1,0 +1,19 @@
+C:\Users\Dom\Desktop\Lab1_GUI\Lab1_GUI\bin\Debug\Lab1_GUI.exe.config
+C:\Users\Dom\Desktop\Lab1_GUI\Lab1_GUI\bin\Debug\Lab1_GUI.exe
+C:\Users\Dom\Desktop\Lab1_GUI\Lab1_GUI\bin\Debug\Lab1_GUI.pdb
+C:\Users\Dom\Desktop\Lab1_GUI\Lab1_GUI\obj\Debug\Lab1_GUI.Form1.resources
+C:\Users\Dom\Desktop\Lab1_GUI\Lab1_GUI\obj\Debug\Lab1_GUI.Properties.Resources.resources
+C:\Users\Dom\Desktop\Lab1_GUI\Lab1_GUI\obj\Debug\Lab1_GUI.csproj.GenerateResource.cache
+C:\Users\Dom\Desktop\Lab1_GUI\Lab1_GUI\obj\Debug\Lab1_GUI.csproj.CoreCompileInputs.cache
+C:\Users\Dom\Desktop\Lab1_GUI\Lab1_GUI\obj\Debug\Lab1_GUI.exe
+C:\Users\Dom\Desktop\Lab1_GUI\Lab1_GUI\obj\Debug\Lab1_GUI.pdb
+C:\Users\Dom\Desktop\AADS Portfolio\Lab1_GUI\Lab1_GUI\bin\Debug\Lab1_GUI.exe.config
+C:\Users\Dom\Desktop\AADS Portfolio\Lab1_GUI\Lab1_GUI\bin\Debug\Lab1_GUI.exe
+C:\Users\Dom\Desktop\AADS Portfolio\Lab1_GUI\Lab1_GUI\bin\Debug\Lab1_GUI.pdb
+C:\Users\Dom\Desktop\AADS Portfolio\Lab1_GUI\Lab1_GUI\obj\Debug\Lab1_GUI.csprojAssemblyReference.cache
+C:\Users\Dom\Desktop\AADS Portfolio\Lab1_GUI\Lab1_GUI\obj\Debug\Lab1_GUI.Form1.resources
+C:\Users\Dom\Desktop\AADS Portfolio\Lab1_GUI\Lab1_GUI\obj\Debug\Lab1_GUI.Properties.Resources.resources
+C:\Users\Dom\Desktop\AADS Portfolio\Lab1_GUI\Lab1_GUI\obj\Debug\Lab1_GUI.csproj.GenerateResource.cache
+C:\Users\Dom\Desktop\AADS Portfolio\Lab1_GUI\Lab1_GUI\obj\Debug\Lab1_GUI.csproj.CoreCompileInputs.cache
+C:\Users\Dom\Desktop\AADS Portfolio\Lab1_GUI\Lab1_GUI\obj\Debug\Lab1_GUI.exe
+C:\Users\Dom\Desktop\AADS Portfolio\Lab1_GUI\Lab1_GUI\obj\Debug\Lab1_GUI.pdb
