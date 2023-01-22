@@ -1,0 +1,20 @@
+C:\Users\Dom\Desktop\Lab6_Library\Lab6_Library\bin\Debug\Lab6_Library.exe.config
+C:\Users\Dom\Desktop\Lab6_Library\Lab6_Library\bin\Debug\Lab6_Library.exe
+C:\Users\Dom\Desktop\Lab6_Library\Lab6_Library\bin\Debug\Lab6_Library.pdb
+C:\Users\Dom\Desktop\Lab6_Library\Lab6_Library\obj\Debug\Lab6_Library.csprojAssemblyReference.cache
+C:\Users\Dom\Desktop\Lab6_Library\Lab6_Library\obj\Debug\Lab6_Library.Properties.Resources.resources
+C:\Users\Dom\Desktop\Lab6_Library\Lab6_Library\obj\Debug\Lab6_Library.csproj.GenerateResource.cache
+C:\Users\Dom\Desktop\Lab6_Library\Lab6_Library\obj\Debug\Lab6_Library.csproj.CoreCompileInputs.cache
+C:\Users\Dom\Desktop\Lab6_Library\Lab6_Library\obj\Debug\Lab6_Library.exe
+C:\Users\Dom\Desktop\Lab6_Library\Lab6_Library\obj\Debug\Lab6_Library.pdb
+C:\Users\Dom\Desktop\Lab6_Library\Lab6_Library\obj\Debug\Lab6_Library.Form1.resources
+F:\Year 2\AADS Portfolio\Lab6_Library\Lab6_Library\bin\Debug\Lab6_Library.exe.config
+F:\Year 2\AADS Portfolio\Lab6_Library\Lab6_Library\bin\Debug\Lab6_Library.exe
+F:\Year 2\AADS Portfolio\Lab6_Library\Lab6_Library\bin\Debug\Lab6_Library.pdb
+F:\Year 2\AADS Portfolio\Lab6_Library\Lab6_Library\obj\Debug\Lab6_Library.csprojAssemblyReference.cache
+F:\Year 2\AADS Portfolio\Lab6_Library\Lab6_Library\obj\Debug\Lab6_Library.Form1.resources
+F:\Year 2\AADS Portfolio\Lab6_Library\Lab6_Library\obj\Debug\Lab6_Library.Properties.Resources.resources
+F:\Year 2\AADS Portfolio\Lab6_Library\Lab6_Library\obj\Debug\Lab6_Library.csproj.GenerateResource.cache
+F:\Year 2\AADS Portfolio\Lab6_Library\Lab6_Library\obj\Debug\Lab6_Library.csproj.CoreCompileInputs.cache
+F:\Year 2\AADS Portfolio\Lab6_Library\Lab6_Library\obj\Debug\Lab6_Library.exe
+F:\Year 2\AADS Portfolio\Lab6_Library\Lab6_Library\obj\Debug\Lab6_Library.pdb

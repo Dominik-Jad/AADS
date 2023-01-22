@@ -1,0 +1,21 @@
+C:\Users\Dom\source\repos\Lab8_BinTree\Lab8_BinTree\bin\Debug\Lab8_BinTree.exe.config
+C:\Users\Dom\source\repos\Lab8_BinTree\Lab8_BinTree\bin\Debug\Lab8_BinTree.exe
+C:\Users\Dom\source\repos\Lab8_BinTree\Lab8_BinTree\bin\Debug\Lab8_BinTree.pdb
+C:\Users\Dom\source\repos\Lab8_BinTree\Lab8_BinTree\obj\Debug\Lab8_BinTree.csprojAssemblyReference.cache
+C:\Users\Dom\source\repos\Lab8_BinTree\Lab8_BinTree\obj\Debug\Lab8_BinTree.csproj.CoreCompileInputs.cache
+C:\Users\Dom\source\repos\Lab8_BinTree\Lab8_BinTree\obj\Debug\Lab8_BinTree.exe
+C:\Users\Dom\source\repos\Lab8_BinTree\Lab8_BinTree\obj\Debug\Lab8_BinTree.pdb
+C:\Users\Dom\Desktop\Lab8_BinTree\Lab8_BinTree\bin\Debug\Lab8_BinTree.exe.config
+C:\Users\Dom\Desktop\Lab8_BinTree\Lab8_BinTree\bin\Debug\Lab8_BinTree.exe
+C:\Users\Dom\Desktop\Lab8_BinTree\Lab8_BinTree\bin\Debug\Lab8_BinTree.pdb
+C:\Users\Dom\Desktop\Lab8_BinTree\Lab8_BinTree\obj\Debug\Lab8_BinTree.csprojAssemblyReference.cache
+C:\Users\Dom\Desktop\Lab8_BinTree\Lab8_BinTree\obj\Debug\Lab8_BinTree.csproj.CoreCompileInputs.cache
+C:\Users\Dom\Desktop\Lab8_BinTree\Lab8_BinTree\obj\Debug\Lab8_BinTree.exe
+C:\Users\Dom\Desktop\Lab8_BinTree\Lab8_BinTree\obj\Debug\Lab8_BinTree.pdb
+F:\Year 2\AADS Portfolio\Lab8_BinTree\Lab8_BinTree\bin\Debug\Lab8_BinTree.exe.config
+F:\Year 2\AADS Portfolio\Lab8_BinTree\Lab8_BinTree\bin\Debug\Lab8_BinTree.exe
+F:\Year 2\AADS Portfolio\Lab8_BinTree\Lab8_BinTree\bin\Debug\Lab8_BinTree.pdb
+F:\Year 2\AADS Portfolio\Lab8_BinTree\Lab8_BinTree\obj\Debug\Lab8_BinTree.csprojAssemblyReference.cache
+F:\Year 2\AADS Portfolio\Lab8_BinTree\Lab8_BinTree\obj\Debug\Lab8_BinTree.csproj.CoreCompileInputs.cache
+F:\Year 2\AADS Portfolio\Lab8_BinTree\Lab8_BinTree\obj\Debug\Lab8_BinTree.exe
+F:\Year 2\AADS Portfolio\Lab8_BinTree\Lab8_BinTree\obj\Debug\Lab8_BinTree.pdb

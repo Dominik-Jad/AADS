@@ -1,0 +1,14 @@
+F:\Year 2\AADS Portfolio\Lab7_Recursion\Lab7_Recursion\bin\Debug\Lab7_Recursion.exe.config
+F:\Year 2\AADS Portfolio\Lab7_Recursion\Lab7_Recursion\bin\Debug\Lab7_Recursion.exe
+F:\Year 2\AADS Portfolio\Lab7_Recursion\Lab7_Recursion\bin\Debug\Lab7_Recursion.pdb
+F:\Year 2\AADS Portfolio\Lab7_Recursion\Lab7_Recursion\obj\Debug\Lab7_Recursion.csprojAssemblyReference.cache
+F:\Year 2\AADS Portfolio\Lab7_Recursion\Lab7_Recursion\obj\Debug\Lab7_Recursion.csproj.CoreCompileInputs.cache
+F:\Year 2\AADS Portfolio\Lab7_Recursion\Lab7_Recursion\obj\Debug\Lab7_Recursion.exe
+F:\Year 2\AADS Portfolio\Lab7_Recursion\Lab7_Recursion\obj\Debug\Lab7_Recursion.pdb
+C:\Users\Dom\Desktop\Lab7_Recursion\Lab7_Recursion\bin\Debug\Lab7_Recursion.exe.config
+C:\Users\Dom\Desktop\Lab7_Recursion\Lab7_Recursion\bin\Debug\Lab7_Recursion.exe
+C:\Users\Dom\Desktop\Lab7_Recursion\Lab7_Recursion\bin\Debug\Lab7_Recursion.pdb
+C:\Users\Dom\Desktop\Lab7_Recursion\Lab7_Recursion\obj\Debug\Lab7_Recursion.csprojAssemblyReference.cache
+C:\Users\Dom\Desktop\Lab7_Recursion\Lab7_Recursion\obj\Debug\Lab7_Recursion.csproj.CoreCompileInputs.cache
+C:\Users\Dom\Desktop\Lab7_Recursion\Lab7_Recursion\obj\Debug\Lab7_Recursion.exe
+C:\Users\Dom\Desktop\Lab7_Recursion\Lab7_Recursion\obj\Debug\Lab7_Recursion.pdb
