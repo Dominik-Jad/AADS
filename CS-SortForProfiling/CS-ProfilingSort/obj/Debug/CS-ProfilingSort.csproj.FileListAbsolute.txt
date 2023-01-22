@@ -1,0 +1,16 @@
+C:\Users\mhyap\Documents\DataStructures\Term2\TW13\CS-SortForProfiling\CS-SortForProfiling\CS-ProfilingSort\obj\Debug\CS-QuickSort.exe
+C:\Users\mhyap\Documents\DataStructures\Term2\TW13\CS-SortForProfiling\CS-SortForProfiling\CS-ProfilingSort\obj\Debug\CS-QuickSort.pdb
+C:\Users\mhyap\Documents\DataStructures\Term2\TW13\CS-SortForProfiling\CS-SortForProfiling\CS-ProfilingSort\bin\Debug\CS-QuickSort.exe
+C:\Users\mhyap\Documents\DataStructures\Term2\TW13\CS-SortForProfiling\CS-SortForProfiling\CS-ProfilingSort\bin\Debug\CS-QuickSort.pdb
+C:\Users\mhyap\Documents\DataStructures\Term2\TW13\CS-SortForProfiling\CS-SortForProfiling\CS-ProfilingSort\obj\Debug\CS-ProfilingSort.csprojResolveAssemblyReference.cache
+C:\Users\Dom\Desktop\CS-SortForProfiling\CS-SortForProfiling\CS-ProfilingSort\bin\Debug\CS-QuickSort.exe
+C:\Users\Dom\Desktop\CS-SortForProfiling\CS-SortForProfiling\CS-ProfilingSort\bin\Debug\CS-QuickSort.pdb
+C:\Users\Dom\Desktop\CS-SortForProfiling\CS-SortForProfiling\CS-ProfilingSort\obj\Debug\CS-ProfilingSort.csproj.CoreCompileInputs.cache
+C:\Users\Dom\Desktop\CS-SortForProfiling\CS-SortForProfiling\CS-ProfilingSort\obj\Debug\CS-QuickSort.exe
+C:\Users\Dom\Desktop\CS-SortForProfiling\CS-SortForProfiling\CS-ProfilingSort\obj\Debug\CS-QuickSort.pdb
+F:\CS-SortForProfiling\CS-SortForProfiling\CS-ProfilingSort\bin\Debug\CS-QuickSort.exe
+F:\CS-SortForProfiling\CS-SortForProfiling\CS-ProfilingSort\bin\Debug\CS-QuickSort.pdb
+F:\CS-SortForProfiling\CS-SortForProfiling\CS-ProfilingSort\obj\Debug\CS-ProfilingSort.csprojAssemblyReference.cache
+F:\CS-SortForProfiling\CS-SortForProfiling\CS-ProfilingSort\obj\Debug\CS-ProfilingSort.csproj.CoreCompileInputs.cache
+F:\CS-SortForProfiling\CS-SortForProfiling\CS-ProfilingSort\obj\Debug\CS-QuickSort.exe
+F:\CS-SortForProfiling\CS-SortForProfiling\CS-ProfilingSort\obj\Debug\CS-QuickSort.pdb
